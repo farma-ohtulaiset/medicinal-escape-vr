@@ -1,4 +1,4 @@
-# medicinal-escape-vr
+# pharm-sim (placeholder name)
 
 Farmasian opetuspeli
 
